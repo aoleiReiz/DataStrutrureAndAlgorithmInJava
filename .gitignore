@@ -30,3 +30,7 @@ bin/
 
 .idea
 .idea/*.xml
+
+.vscode
+
+DataStrutrureAndAlgorithmInJava.iml
